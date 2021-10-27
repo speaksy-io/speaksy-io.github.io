@@ -1,2 +1,2 @@
-# speaksy.io
+# www.speaksy.io
 Websites of the company.
